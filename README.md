@@ -28,3 +28,7 @@
 
 | Day 02 | Variables \& Built-in Functions | Done |
 
+| Day 03 | Operators | Done |
+
+| Day 04 | Pending | Pending |
+
