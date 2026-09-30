@@ -6,11 +6,11 @@
 
 
 
-\*\*Student:\*\* Akshay PB  
+\*\*Student:\*\* Akshay PB
 
-\*\*Register No:\*\* JSOFT26054 
+\*\*Register No:\*\* JSOFT26054
 
-\*\*Staff:\*\* Sathish Kumar M  
+\*\*Staff:\*\* Sathish Kumar M
 
 \*\*Department:\*\* School of Future Technology, Jain University
 
@@ -26,5 +26,5 @@
 
 | Day 01 | Introduction | Done |
 
-| Day 02 | Variables \& Built-in Functions | Pending |
+| Day 02 | Variables \& Built-in Functions | Done |
 
